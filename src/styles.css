@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form {
+  border: 1px solid black;
+  position: relative;
+  top: 4rem;
+  margin: auto;
+  padding: 2rem;
+  width: 70%;
+}
+
+input {
+  float: right;
+  width: 50%;
+  margin-right: 5rem;
+}
+
+.navigationList {
+  border-bottom: 3px solid black;
+}
+
+.navigationListPills {
+  display: inline;
+  margin: 1rem;
+}
